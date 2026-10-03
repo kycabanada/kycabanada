@@ -11,18 +11,17 @@
 <p align="center">
   <a href="mailto:tin.cabanada@gmail.com"><img src="https://img.shields.io/badge/Email-tin.cabanada@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email tin.cabanada@gmail.com" /></a>
   <a href="https://www.linkedin.com/in/kristine-cabanada-57a74b279/"><img src="https://img.shields.io/badge/LinkedIn-Kristine_Cabanada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/kycabanada/portfolio"><img src="https://img.shields.io/badge/Portfolio-View_my_work-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
 </p>
 
-## 👋 Hi, I'm Kristine
+## Hi, I'm Kristine
 
 I'm a fourth-year IT student at the **University of Santo Tomas**. I build **full-stack web apps** and design the **databases** behind them, and I care most about making things that are easy for people to use.
 
-- 🚢 **Now:** building **AGOS**, my capstone: an offline-first transit companion for Pasig River Ferry commuters
-- 🧪 **Also:** QA testing for real client systems, so I catch bugs before users do
-- 🎓 **Dean's Lister:** A.Y. 2024–2025 and 2025–2026
-- 🤝 **Leadership:** Associate Team Head, Internal Affairs Committee, UST SITE
-- 💬 **Ask me about:** React, TypeScript, ASP.NET, PHP and MySQL
+- **Now:** building **AGOS**, my capstone: an offline-first transit companion for Pasig River Ferry commuters
+- **Also:** QA testing for real client systems, so I catch bugs before users do
+- **Dean's Lister:** A.Y. 2024–2025 and 2025–2026
+- **Leadership:** Associate Team Head, Internal Affairs Committee, UST SITE
+- **Ask me about:** React, TypeScript, ASP.NET, PHP and MySQL
 
 ## 🛠️ Toolbox
 
@@ -49,12 +48,12 @@ I'm a fourth-year IT student at the **University of Santo Tomas**. I build **ful
 
 | Project | What it is | My role | Stack | When |
 | :--- | :--- | :--- | :--- | :--- |
-| 🚢 **AGOS** | Offline-first transit companion for Pasig River Ferry commuters: live ETAs from GPS across all 13 stations and Dijkstra-based last-mile routing | Capstone | React · TypeScript · Vite · Tailwind CSS | Jun 2026 – Present |
-| 💎 **Solteira & Brands** | Integrated inventory, ordering and delivery-monitoring system for a fine-jewelry retailer | QA tester | ASP.NET · MySQL · Tailwind CSS | Jan – Jul 2026 |
-| 🌿 **WellByte** | Student wellness and time-management portal for CICS students with real-time data | Developer | PHP · Firebase · Tailwind CSS | Jan – May 2026 |
-| ☕ **Café Alnardo** | Full-stack café ordering website with a 20-item online menu, mobile-first | Developer | ASP.NET · MySQL · Tailwind CSS | Aug – Dec 2025 |
-| 🐾 **Shelter of Light** | Awareness platform for a Quezon City animal rescue and its advocacy work | Developer | PHP · MySQL · Tailwind CSS | Jan – Apr 2025 |
-| 💼 **Portfolio** | My personal site with light and dark mode | Developer | React · TypeScript · Vite · Tailwind CSS | 2026 · [View code](https://github.com/kycabanada/portfolio) |
+| **AGOS** | Offline-first transit companion for Pasig River Ferry commuters: live ETAs from GPS across all 13 stations and Dijkstra-based last-mile routing | Capstone | React · TypeScript · Vite · Tailwind CSS | Jun 2026 – Present |
+| **Solteira & Brands** | Integrated inventory, ordering and delivery-monitoring system for a fine-jewelry retailer | QA tester | ASP.NET · MySQL · Tailwind CSS | Jan – Jul 2026 |
+| **WellByte** | Student wellness and time-management portal for CICS students with real-time data | Developer | PHP · Firebase · Tailwind CSS | Jan – May 2026 |
+| **Café Alnardo** | Full-stack café ordering website with a 20-item online menu, mobile-first | Developer | ASP.NET · MySQL · Tailwind CSS | Aug – Dec 2025 |
+| **Shelter of Light** | Awareness platform for a Quezon City animal rescue and its advocacy work | Developer | PHP · MySQL · Tailwind CSS | Jan – Apr 2025 |
+| **Portfolio** | My personal site with light and dark mode | Developer | React · TypeScript · Vite · Tailwind CSS | 2026 · [View code](https://github.com/kycabanada/portfolio) |
 
 > 💼 See the full write-ups in my **[portfolio](https://github.com/kycabanada/portfolio)**. Some project code lives in private or team repositories.
 
@@ -89,10 +88,9 @@ I'm looking for **internship opportunities** in web development and QA. If you h
 
 <table>
   <tr>
-    <td align="center" width="25%"><a href="mailto:tin.cabanada@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><br /><sub><a href="mailto:tin.cabanada@gmail.com">tin.cabanada@gmail.com</a></sub></td>
-    <td align="center" width="25%"><a href="https://www.linkedin.com/in/kristine-cabanada-57a74b279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br /><sub><a href="https://www.linkedin.com/in/kristine-cabanada-57a74b279/">Kristine Cabanada</a></sub></td>
-    <td align="center" width="25%"><a href="https://github.com/kycabanada"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><br /><sub><a href="https://github.com/kycabanada">@kycabanada</a></sub></td>
-    <td align="center" width="25%"><a href="https://github.com/kycabanada/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a><br /><sub><a href="https://github.com/kycabanada/portfolio">View my work</a></sub></td>
+    <td align="center" width="33%"><a href="mailto:tin.cabanada@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><br /><sub><a href="mailto:tin.cabanada@gmail.com">tin.cabanada@gmail.com</a></sub></td>
+    <td align="center" width="33%"><a href="https://www.linkedin.com/in/kristine-cabanada-57a74b279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br /><sub><a href="https://www.linkedin.com/in/kristine-cabanada-57a74b279/">Kristine Cabanada</a></sub></td>
+    <td align="center" width="33%"><a href="https://github.com/kycabanada"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><br /><sub><a href="https://github.com/kycabanada">@kycabanada</a></sub></td>
   </tr>
 </table>
 
