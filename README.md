@@ -1,5 +1,5 @@
 <a href="https://github.com/kycabanada">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:12263a,55:1b6e8a,100:6ec1da&height=210&section=header&text=Kristine%20Cabanada&fontSize=56&fontColor=ffffff&fontAlign=38&fontAlignY=38&desc=BS%20IT%20%40%20University%20of%20Santo%20Tomas&descSize=18&descAlign=38&descAlignY=60&rotate=0" alt="Kristine Cabanada" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:12263a,55:1b6e8a,100:6ec1da&height=230&section=header&text=Kristine%20Cabanada&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=BS%20IT%20%40%20University%20of%20Santo%20Tomas%20%C2%B7%20Full-stack%20web%20developer&descSize=17&descAlignY=63&animation=fadeIn" alt="Kristine Cabanada" width="100%" />
 </a>
 
 <p align="center">
@@ -130,8 +130,8 @@ Every project is a stop on the line. The yellow one is where I am now.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kycabanada&background=00000000&border=23394c&stroke=23394c&ring=6ec1da&fire=F4B41A&currStreakNum=e8eff3&sideNums=e8eff3&currStreakLabel=6ec1da&sideLabels=9cb0bf&dates=9cb0bf&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://streak-stats.demolab.com/?user=kycabanada&background=00000000&border=d5dfe4&stroke=d5dfe4&ring=1b6e8a&fire=F4B41A&currStreakNum=12263a&sideNums=12263a&currStreakLabel=1b6e8a&sideLabels=52677a&dates=52677a&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kycabanada&background=00000000&border=23394c&stroke=23394c&ring=6ec1da&fire=F4B41A&currStreakNum=e8eff3&sideNums=e8eff3&currStreakLabel=6ec1da&sideLabels=9cb0bf&dates=9cb0bf&date_format=M%20j%5B%2C%20Y%5D&disable_animations=true" />
+    <img src="https://streak-stats.demolab.com/?user=kycabanada&background=00000000&border=d5dfe4&stroke=d5dfe4&ring=1b6e8a&fire=F4B41A&currStreakNum=12263a&sideNums=12263a&currStreakLabel=1b6e8a&sideLabels=52677a&dates=52677a&date_format=M%20j%5B%2C%20Y%5D&disable_animations=true" alt="GitHub streak" />
   </picture>
 </p>
 
