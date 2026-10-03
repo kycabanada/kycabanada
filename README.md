@@ -1,10 +1,6 @@
 <a href="https://github.com/kycabanada">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:12263a,55:1b6e8a,100:6ec1da&height=200&section=header&text=Kristine%20Cabanada&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=BS%20IT%20%40%20University%20of%20Santo%20Tomas%20%C2%B7%20Full-stack%20web%20developer&descSize=17&descAlignY=70" alt="Kristine Cabanada" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Kristine%20Cabanada&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=BS%20IT%20%40%20University%20of%20Santo%20Tomas%20%C2%B7%20Full-stack%20web%20developer&descSize=17&descAlignY=70" alt="Kristine Cabanada" width="100%" />
 </a>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=700&size=22&duration=3200&pause=900&color=F4B41A&center=true&vCenter=true&width=640&lines=Full-stack+web+developer;I+build+web+apps+and+the+databases+behind+them;Currently+building+AGOS+for+Pasig+River+Ferry+commuters;Open+to+internships+%E2%80%94+let's+talk!" alt="Full-stack web developer" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_internships-F4B41A?style=flat-square&labelColor=12263a" alt="Open to internships" />
@@ -12,16 +8,13 @@
   <img src="https://img.shields.io/badge/Dean's_Lister-12263a?style=flat-square&logo=bookstack&logoColor=F4B41A" alt="Dean's Lister" />
 </p>
 
-<table>
-  <tr>
-    <td width="32%" align="center" valign="top">
-      <img src="assets/kristine.jpg" alt="Photo of Kristine Cabanada" width="200" />
-      <br />
-      <sub><b>Kristine Cabanada</b><br />4th-year BS Information Technology<br />UST · College of Information and Computing Sciences</sub>
-    </td>
-    <td width="68%" valign="top">
+<p align="center">
+  <a href="mailto:tin.cabanada@gmail.com"><img src="https://img.shields.io/badge/Email-tin.cabanada@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email tin.cabanada@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/kristine-cabanada-57a74b279/"><img src="https://img.shields.io/badge/LinkedIn-Kristine_Cabanada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/kycabanada/portfolio"><img src="https://img.shields.io/badge/Portfolio-View_my_work-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
+</p>
 
-### 👋 Hi, I'm Kristine
+## 👋 Hi, I'm Kristine
 
 I'm a fourth-year IT student at the **University of Santo Tomas**. I build **full-stack web apps** and design the **databases** behind them, and I care most about making things that are easy for people to use.
 
@@ -30,10 +23,6 @@ I'm a fourth-year IT student at the **University of Santo Tomas**. I build **ful
 - 🎓 **Dean's Lister:** A.Y. 2024–2025 and 2025–2026
 - 🤝 **Leadership:** Associate Team Head, Internal Affairs Committee, UST SITE
 - 💬 **Ask me about:** React, TypeScript, ASP.NET, PHP and MySQL
-
-    </td>
-  </tr>
-</table>
 
 ## 🛠️ Toolbox
 
@@ -56,64 +45,16 @@ I'm a fourth-year IT student at the **University of Santo Tomas**. I build **ful
   </tr>
 </table>
 
-## 🗺️ My route so far
+## 🚀 Projects
 
-Every project is a stop on the line. The yellow one is where I am now.
-
-```text
-   2025              2025             2026          2026            NOW
-    ○────────────────○────────────────○─────────────○───────────────●
- Shelter of       Café Alnardo     WellByte      Solteira         AGOS
-   Light                                         & Brands
-```
-
-<details open>
-<summary><b>🚢 AGOS</b> · Smart transit companion for Pasig River Ferry commuters · <i>Capstone, Jun 2026 – Present</i></summary>
-<br />
-
-- Offline-first app that calculates **live ETAs from GPS telemetry** across all 13 Pasig River Ferry Service stations
-- **Multimodal last-mile routing** built on Dijkstra's algorithm, designed to run in real time without a connection
-
-`React` `TypeScript` `Vite` `Tailwind CSS`
-</details>
-
-<details>
-<summary><b>💎 Solteira & Brands</b> · Inventory and ordering system for a fine-jewelry retailer · <i>QA tester, Jan – Jul 2026</i></summary>
-<br />
-
-- Tested inventory, order processing and delivery-monitoring features before client delivery
-- Logged defects and tracked them to resolution with the development team
-
-`ASP.NET` `MySQL` `Tailwind CSS`
-</details>
-
-<details>
-<summary><b>🌿 WellByte</b> · Student wellness and time-management portal · <i>Jan – May 2026</i></summary>
-<br />
-
-- Portal for CICS students, combining PHP with Firebase for real-time back-end data
-
-`PHP` `Firebase` `Tailwind CSS`
-</details>
-
-<details>
-<summary><b>☕ Café Alnardo</b> · Café ordering and business website · <i>Aug – Dec 2025</i></summary>
-<br />
-
-- Full-stack ordering platform for browsing and ordering from a 20-item menu online
-- Responsive, mobile-first front end for walk-in and remote customers
-
-`ASP.NET` `MySQL` `Tailwind CSS`
-</details>
-
-<details>
-<summary><b>🐾 Shelter of Light: Light a Life</b> · Awareness platform for a Quezon City animal rescue · <i>Jan – Apr 2025</i></summary>
-<br />
-
-- Showcases the nonprofit's rescue operations and its mental-health and education advocacy
-
-`PHP` `MySQL` `Tailwind CSS`
-</details>
+| Project | What it is | My role | Stack | When |
+| :--- | :--- | :--- | :--- | :--- |
+| 🚢 **AGOS** | Offline-first transit companion for Pasig River Ferry commuters: live ETAs from GPS across all 13 stations and Dijkstra-based last-mile routing | Capstone | React · TypeScript · Vite · Tailwind CSS | Jun 2026 – Present |
+| 💎 **Solteira & Brands** | Integrated inventory, ordering and delivery-monitoring system for a fine-jewelry retailer | QA tester | ASP.NET · MySQL · Tailwind CSS | Jan – Jul 2026 |
+| 🌿 **WellByte** | Student wellness and time-management portal for CICS students with real-time data | Developer | PHP · Firebase · Tailwind CSS | Jan – May 2026 |
+| ☕ **Café Alnardo** | Full-stack café ordering website with a 20-item online menu, mobile-first | Developer | ASP.NET · MySQL · Tailwind CSS | Aug – Dec 2025 |
+| 🐾 **Shelter of Light** | Awareness platform for a Quezon City animal rescue and its advocacy work | Developer | PHP · MySQL · Tailwind CSS | Jan – Apr 2025 |
+| 💼 **Portfolio** | My personal site with light and dark mode | Developer | React · TypeScript · Vite · Tailwind CSS | 2026 · [View code](https://github.com/kycabanada/portfolio) |
 
 > 💼 See the full write-ups in my **[portfolio](https://github.com/kycabanada/portfolio)**. Some project code lives in private or team repositories.
 
@@ -146,11 +87,15 @@ Every project is a stop on the line. The yellow one is where I am now.
 
 I'm looking for **internship opportunities** in web development and QA. If you have a role, a project or just a question, I'd love to hear from you.
 
-<p>
-  <a href="https://www.linkedin.com/in/kristine-cabanada-57a74b279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tin.cabanada@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-F4B41A?style=for-the-badge&logo=gmail&logoColor=12263a" alt="Email" /></a>
-  <a href="https://github.com/kycabanada/portfolio"><img src="https://img.shields.io/badge/Portfolio-View-1b6e8a?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kycabanada&style=for-the-badge&color=12263a&label=Profile+views" alt="Profile views" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%"><a href="mailto:tin.cabanada@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><br /><sub><a href="mailto:tin.cabanada@gmail.com">tin.cabanada@gmail.com</a></sub></td>
+    <td align="center" width="25%"><a href="https://www.linkedin.com/in/kristine-cabanada-57a74b279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br /><sub><a href="https://www.linkedin.com/in/kristine-cabanada-57a74b279/">Kristine Cabanada</a></sub></td>
+    <td align="center" width="25%"><a href="https://github.com/kycabanada"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><br /><sub><a href="https://github.com/kycabanada">@kycabanada</a></sub></td>
+    <td align="center" width="25%"><a href="https://github.com/kycabanada/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a><br /><sub><a href="https://github.com/kycabanada/portfolio">View my work</a></sub></td>
+  </tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6ec1da,45:1b6e8a,100:12263a&height=6&section=footer" alt="" width="100%" />
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kycabanada&style=flat-square&color=000000&label=Profile+views" alt="Profile views" /></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=6&section=footer" alt="" width="100%" />
