@@ -1,5 +1,5 @@
 <a href="https://github.com/kycabanada">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Kristine%20Cabanada&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=BS%20IT%20%40%20University%20of%20Santo%20Tomas%20%C2%B7%20Full-stack%20web%20developer&descSize=17&descAlignY=70" alt="Kristine Cabanada" width="100%" />
+  <img src="assets/banner.svg" alt="Kristine Cabanada, full-stack web developer. Project route: Shelter of Light, Café Alnardo, WellByte, Solteira, and now AGOS." width="100%" />
 </a>
 
 <p align="center">
