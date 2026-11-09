@@ -53,9 +53,7 @@ I'm a fourth-year IT student at the **University of Santo Tomas**. I build **ful
 | **WellByte** | Student wellness and time-management portal for CICS students with real-time data | Developer | PHP · Firebase · Tailwind CSS | Jan – May 2026 |
 | **Café Alnardo** | Full-stack café ordering website with a 20-item online menu, mobile-first | Developer | ASP.NET · MySQL · Tailwind CSS | Aug – Dec 2025 |
 | **Shelter of Light** | Awareness platform for a Quezon City animal rescue and its advocacy work | Developer | PHP · MySQL · Tailwind CSS | Jan – Apr 2025 |
-| **Portfolio** | My personal site with light and dark mode | Developer | React · TypeScript · Vite · Tailwind CSS | 2026 · [View code](https://github.com/kycabanada/portfolio) |
-
-> 💼 See the full write-ups in my **[portfolio](https://github.com/kycabanada/portfolio)**. Some project code lives in private or team repositories.
+| **Portfolio** | My personal site with light and dark mode | Developer | React · TypeScript · Vite · Tailwind CSS | 2026 |
 
 ## 📜 Certifications
 
